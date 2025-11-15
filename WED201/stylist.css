@@ -1,0 +1,66 @@
+/* ====== Global Styles ====== */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+/* ====== Header ====== */
+header {
+  background-color: #4a90e2; /* xanh dịu dễ nhìn */
+  color: white;
+  padding: 20px;
+}
+
+/* ====== Navigation ====== */
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block; /* hoặc flex tùy chọn */
+  width: 120px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+/* ====== Main Section ====== */
+main {
+  background-color: #f9f9f9;
+  font-size: 18px;
+  padding: 20px;
+}
+
+/* ====== Footer ====== */
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* ====== Headings ====== */
+h1 {
+  text-align: center;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  color: #333;
+}
+
+/* ====== Paragraphs ====== */
+p {
+  line-height: 1.6;
+  color: #444;
+}
